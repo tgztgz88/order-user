@@ -1,3 +1,4 @@
 # Project exclude paths
 /order-user-core/target/
 /user-service-provider/target/
+/.idea
